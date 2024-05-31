@@ -7,8 +7,11 @@ __pycache__
 .env
 
 # virtualenv
-venv/
+*venv/
 ENV/
 
 # idea folder
 *.idea
+
+# Jupyter
+.ipynb_checkpoints/
